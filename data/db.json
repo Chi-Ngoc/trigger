@@ -1,0 +1,3273 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "a",
+      "email": "",
+      "password": "c",
+      "forgot_password": "",
+      "create_at": "",
+      "update_at": ""
+    }
+  ],
+  "option": [
+    {
+      "id": 1,
+      "opt_key": "some comment",
+      "otp_value": "",
+      "user_id": ""
+    }
+  ],
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "code": "AF"
+    },
+    {
+      "name": "land Islands",
+      "code": "AX"
+    },
+    {
+      "name": "Albania",
+      "code": "AL"
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ"
+    },
+    {
+      "name": "American Samoa",
+      "code": "AS"
+    },
+    {
+      "name": "AndorrA",
+      "code": "AD"
+    },
+    {
+      "name": "Angola",
+      "code": "AO"
+    },
+    {
+      "name": "Anguilla",
+      "code": "AI"
+    },
+    {
+      "name": "Antarctica",
+      "code": "AQ"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR"
+    },
+    {
+      "name": "Armenia",
+      "code": "AM"
+    },
+    {
+      "name": "Aruba",
+      "code": "AW"
+    },
+    {
+      "name": "Australia",
+      "code": "AU"
+    },
+    {
+      "name": "Austria",
+      "code": "AT"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ"
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS"
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD"
+    },
+    {
+      "name": "Barbados",
+      "code": "BB"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE"
+    },
+    {
+      "name": "Belize",
+      "code": "BZ"
+    },
+    {
+      "name": "Benin",
+      "code": "BJ"
+    },
+    {
+      "name": "Bermuda",
+      "code": "BM"
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT"
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA"
+    },
+    {
+      "name": "Botswana",
+      "code": "BW"
+    },
+    {
+      "name": "Bouvet Island",
+      "code": "BV"
+    },
+    {
+      "name": "Brazil",
+      "code": "BR"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "code": "IO"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "code": "BN"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG"
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF"
+    },
+    {
+      "name": "Burundi",
+      "code": "BI"
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH"
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM"
+    },
+    {
+      "name": "Canada",
+      "code": "CA"
+    },
+    {
+      "name": "Cape Verde",
+      "code": "CV"
+    },
+    {
+      "name": "Cayman Islands",
+      "code": "KY"
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF"
+    },
+    {
+      "name": "Chad",
+      "code": "TD"
+    },
+    {
+      "name": "Chile",
+      "code": "CL"
+    },
+    {
+      "name": "China",
+      "code": "CN"
+    },
+    {
+      "name": "Christmas Island",
+      "code": "CX"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "code": "CC"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO"
+    },
+    {
+      "name": "Comoros",
+      "code": "KM"
+    },
+    {
+      "name": "Congo",
+      "code": "CG"
+    },
+    {
+      "name": "Congo, The Democratic Republic of the",
+      "code": "CD"
+    },
+    {
+      "name": "Cook Islands",
+      "code": "CK"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR"
+    },
+    {
+      "name": "Cote D\"Ivoire",
+      "code": "CI"
+    },
+    {
+      "name": "Croatia",
+      "code": "HR"
+    },
+    {
+      "name": "Cuba",
+      "code": "CU"
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "CZ"
+    },
+    {
+      "name": "Denmark",
+      "code": "DK"
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ"
+    },
+    {
+      "name": "Dominica",
+      "code": "DM"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO"
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG"
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ"
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER"
+    },
+    {
+      "name": "Estonia",
+      "code": "EE"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET"
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "code": "FK"
+    },
+    {
+      "name": "Faroe Islands",
+      "code": "FO"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ"
+    },
+    {
+      "name": "Finland",
+      "code": "FI"
+    },
+    {
+      "name": "France",
+      "code": "FR"
+    },
+    {
+      "name": "French Guiana",
+      "code": "GF"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF"
+    },
+    {
+      "name": "French Southern Territories",
+      "code": "TF"
+    },
+    {
+      "name": "Gabon",
+      "code": "GA"
+    },
+    {
+      "name": "Gambia",
+      "code": "GM"
+    },
+    {
+      "name": "Georgia",
+      "code": "GE"
+    },
+    {
+      "name": "Germany",
+      "code": "DE"
+    },
+    {
+      "name": "Ghana",
+      "code": "GH"
+    },
+    {
+      "name": "Gibraltar",
+      "code": "GI"
+    },
+    {
+      "name": "Greece",
+      "code": "GR"
+    },
+    {
+      "name": "Greenland",
+      "code": "GL"
+    },
+    {
+      "name": "Grenada",
+      "code": "GD"
+    },
+    {
+      "name": "Guadeloupe",
+      "code": "GP"
+    },
+    {
+      "name": "Guam",
+      "code": "GU"
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT"
+    },
+    {
+      "name": "Guernsey",
+      "code": "GG"
+    },
+    {
+      "name": "Guinea",
+      "code": "GN"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW"
+    },
+    {
+      "name": "Guyana",
+      "code": "GY"
+    },
+    {
+      "name": "Haiti",
+      "code": "HT"
+    },
+    {
+      "name": "Heard Island and Mcdonald Islands",
+      "code": "HM"
+    },
+    {
+      "name": "Holy See (Vatican City State)",
+      "code": "VA"
+    },
+    {
+      "name": "Honduras",
+      "code": "HN"
+    },
+    {
+      "name": "Hong Kong",
+      "code": "HK"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU"
+    },
+    {
+      "name": "Iceland",
+      "code": "IS"
+    },
+    {
+      "name": "India",
+      "code": "IN"
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID"
+    },
+    {
+      "name": "Iran, Islamic Republic Of",
+      "code": "IR"
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE"
+    },
+    {
+      "name": "Isle of Man",
+      "code": "IM"
+    },
+    {
+      "name": "Israel",
+      "code": "IL"
+    },
+    {
+      "name": "Italy",
+      "code": "IT"
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM"
+    },
+    {
+      "name": "Japan",
+      "code": "JP"
+    },
+    {
+      "name": "Jersey",
+      "code": "JE"
+    },
+    {
+      "name": "Jordan",
+      "code": "JO"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ"
+    },
+    {
+      "name": "Kenya",
+      "code": "KE"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI"
+    },
+    {
+      "name": "Korea, Democratic People\"S Republic of",
+      "code": "KP"
+    },
+    {
+      "name": "Korea, Republic of",
+      "code": "KR"
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG"
+    },
+    {
+      "name": "Lao People\"S Democratic Republic",
+      "code": "LA"
+    },
+    {
+      "name": "Latvia",
+      "code": "LV"
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB"
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS"
+    },
+    {
+      "name": "Liberia",
+      "code": "LR"
+    },
+    {
+      "name": "Libyan Arab Jamahiriya",
+      "code": "LY"
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT"
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU"
+    },
+    {
+      "name": "Macao",
+      "code": "MO"
+    },
+    {
+      "name": "Macedonia, The Former Yugoslav Republic of",
+      "code": "MK"
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG"
+    },
+    {
+      "name": "Malawi",
+      "code": "MW"
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV"
+    },
+    {
+      "name": "Mali",
+      "code": "ML"
+    },
+    {
+      "name": "Malta",
+      "code": "MT"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH"
+    },
+    {
+      "name": "Martinique",
+      "code": "MQ"
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR"
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU"
+    },
+    {
+      "name": "Mayotte",
+      "code": "YT"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX"
+    },
+    {
+      "name": "Micronesia, Federated States of",
+      "code": "FM"
+    },
+    {
+      "name": "Moldova, Republic of",
+      "code": "MD"
+    },
+    {
+      "name": "Monaco",
+      "code": "MC"
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN"
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME"
+    },
+    {
+      "name": "Montserrat",
+      "code": "MS"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA"
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ"
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM"
+    },
+    {
+      "name": "Namibia",
+      "code": "NA"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR"
+    },
+    {
+      "name": "Nepal",
+      "code": "NP"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL"
+    },
+    {
+      "name": "Netherlands Antilles",
+      "code": "AN"
+    },
+    {
+      "name": "New Caledonia",
+      "code": "NC"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI"
+    },
+    {
+      "name": "Niger",
+      "code": "NE"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG"
+    },
+    {
+      "name": "Niue",
+      "code": "NU"
+    },
+    {
+      "name": "Norfolk Island",
+      "code": "NF"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "code": "MP"
+    },
+    {
+      "name": "Norway",
+      "code": "NO"
+    },
+    {
+      "name": "Oman",
+      "code": "OM"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK"
+    },
+    {
+      "name": "Palau",
+      "code": "PW"
+    },
+    {
+      "name": "Palestinian Territory, Occupied",
+      "code": "PS"
+    },
+    {
+      "name": "Panama",
+      "code": "PA"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY"
+    },
+    {
+      "name": "Peru",
+      "code": "PE"
+    },
+    {
+      "name": "Philippines",
+      "code": "PH"
+    },
+    {
+      "name": "Pitcairn",
+      "code": "PN"
+    },
+    {
+      "name": "Poland",
+      "code": "PL"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT"
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR"
+    },
+    {
+      "name": "Qatar",
+      "code": "QA"
+    },
+    {
+      "name": "Reunion",
+      "code": "RE"
+    },
+    {
+      "name": "Romania",
+      "code": "RO"
+    },
+    {
+      "name": "Russian Federation",
+      "code": "RU"
+    },
+    {
+      "name": "RWANDA",
+      "code": "RW"
+    },
+    {
+      "name": "Saint Helena",
+      "code": "SH"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN"
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "code": "PM"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC"
+    },
+    {
+      "name": "Samoa",
+      "code": "WS"
+    },
+    {
+      "name": "San Marino",
+      "code": "SM"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "code": "ST"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA"
+    },
+    {
+      "name": "Senegal",
+      "code": "SN"
+    },
+    {
+      "name": "Serbia",
+      "code": "RS"
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC"
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL"
+    },
+    {
+      "name": "Singapore",
+      "code": "SG"
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK"
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI"
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB"
+    },
+    {
+      "name": "Somalia",
+      "code": "SO"
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "code": "GS"
+    },
+    {
+      "name": "Spain",
+      "code": "ES"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK"
+    },
+    {
+      "name": "Sudan",
+      "code": "SD"
+    },
+    {
+      "name": "Suriname",
+      "code": "SR"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "code": "SJ"
+    },
+    {
+      "name": "Swaziland",
+      "code": "SZ"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH"
+    },
+    {
+      "name": "Syrian Arab Republic",
+      "code": "SY"
+    },
+    {
+      "name": "Taiwan, Province of China",
+      "code": "TW"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ"
+    },
+    {
+      "name": "Tanzania, United Republic of",
+      "code": "TZ"
+    },
+    {
+      "name": "Thailand",
+      "code": "TH"
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL"
+    },
+    {
+      "name": "Togo",
+      "code": "TG"
+    },
+    {
+      "name": "Tokelau",
+      "code": "TK"
+    },
+    {
+      "name": "Tonga",
+      "code": "TO"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT"
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "code": "TC"
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV"
+    },
+    {
+      "name": "Uganda",
+      "code": "UG"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB"
+    },
+    {
+      "name": "United States",
+      "code": "US"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "code": "UM"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY"
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ"
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU"
+    },
+    {
+      "name": "Venezuela",
+      "code": "VE"
+    },
+    {
+      "name": "Viet Nam",
+      "code": "VN"
+    },
+    {
+      "name": "Virgin Islands, British",
+      "code": "VG"
+    },
+    {
+      "name": "Virgin Islands, U.S.",
+      "code": "VI"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "code": "WF"
+    },
+    {
+      "name": "Western Sahara",
+      "code": "EH"
+    },
+    {
+      "name": "Yemen",
+      "code": "YE"
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW"
+    }
+  ],
+  "occupations": [
+    "accountant",
+    "actor",
+    "actuary",
+    "adhesive bonding machine tender",
+    "adjudicator",
+    "administrative assistant",
+    "administrative services manager",
+    "adult education teacher",
+    "advertising manager",
+    "advertising sales agent",
+    "aerobics instructor",
+    "aerospace engineer",
+    "aerospace engineering technician",
+    "agent",
+    "agricultural engineer",
+    "agricultural equipment operator",
+    "agricultural grader",
+    "agricultural inspector",
+    "agricultural manager",
+    "agricultural sciences teacher",
+    "agricultural sorter",
+    "agricultural technician",
+    "agricultural worker",
+    "air conditioning installer",
+    "air conditioning mechanic",
+    "air traffic controller",
+    "aircraft cargo handling supervisor",
+    "aircraft mechanic",
+    "aircraft service technician",
+    "airline copilot",
+    "airline pilot",
+    "ambulance dispatcher",
+    "ambulance driver",
+    "amusement machine servicer",
+    "anesthesiologist",
+    "animal breeder",
+    "animal control worker",
+    "animal scientist",
+    "animal trainer",
+    "animator",
+    "answering service operator",
+    "anthropologist",
+    "apparel patternmaker",
+    "apparel worker",
+    "arbitrator",
+    "archeologist",
+    "architect",
+    "architectural drafter",
+    "architectural manager",
+    "archivist",
+    "art director",
+    "art teacher",
+    "artist",
+    "assembler",
+    "astronomer",
+    "athlete",
+    "athletic trainer",
+    "ATM machine repairer",
+    "atmospheric scientist",
+    "attendant",
+    "audio and video equipment technician",
+    "audio-visual and multimedia collections specialist",
+    "audiologist",
+    "auditor",
+    "author",
+    "auto damage insurance appraiser",
+    "automotive and watercraft service attendant",
+    "automotive glass installer",
+    "automotive mechanic",
+    "avionics technician",
+    "back-end developer",
+    "baggage porter",
+    "bailiff",
+    "baker",
+    "barback",
+    "barber",
+    "bartender",
+    "basic education teacher",
+    "behavioral disorder counselor",
+    "bellhop",
+    "bench carpenter",
+    "bicycle repairer",
+    "bill and account collector",
+    "billing and posting clerk",
+    "biochemist",
+    "biological technician",
+    "biomedical engineer",
+    "biophysicist",
+    "blaster",
+    "blending machine operator",
+    "blockmason",
+    "boiler operator",
+    "boilermaker",
+    "bookkeeper",
+    "boring machine tool tender",
+    "brazer",
+    "brickmason",
+    "bridge and lock tender",
+    "broadcast news analyst",
+    "broadcast technician",
+    "brokerage clerk",
+    "budget analyst",
+    "building inspector",
+    "bus mechanic",
+    "butcher",
+    "buyer",
+    "cabinetmaker",
+    "cafeteria attendant",
+    "cafeteria cook",
+    "camera operator",
+    "camera repairer",
+    "cardiovascular technician",
+    "cargo agent",
+    "carpenter",
+    "carpet installer",
+    "cartographer",
+    "cashier",
+    "caster",
+    "ceiling tile installer",
+    "cellular equipment installer",
+    "cement mason",
+    "channeling machine operator",
+    "chauffeur",
+    "checker",
+    "chef",
+    "chemical engineer",
+    "chemical plant operator",
+    "chemist",
+    "chemistry teacher",
+    "chief executive",
+    "child social worker",
+    "childcare worker",
+    "chiropractor",
+    "choreographer",
+    "civil drafter",
+    "civil engineer",
+    "civil engineering technician",
+    "claims adjuster",
+    "claims examiner",
+    "claims investigator",
+    "cleaner",
+    "clinical laboratory technician",
+    "clinical laboratory technologist",
+    "clinical psychologist",
+    "coating worker",
+    "coatroom attendant",
+    "coil finisher",
+    "coil taper",
+    "coil winder",
+    "coin machine servicer",
+    "commercial diver",
+    "commercial pilot",
+    "commodities sales agent",
+    "communications equipment operator",
+    "communications teacher",
+    "community association manager",
+    "community service manager",
+    "compensation and benefits manager",
+    "compliance officer",
+    "composer",
+    "computer hardware engineer",
+    "computer network architect",
+    "computer operator",
+    "computer programmer",
+    "computer science teacher",
+    "computer support specialist",
+    "computer systems administrator",
+    "computer systems analyst",
+    "concierge",
+    "conciliator",
+    "concrete finisher",
+    "conservation science teacher",
+    "conservation scientist",
+    "conservation worker",
+    "conservator",
+    "construction inspector",
+    "construction manager",
+    "construction painter",
+    "construction worker",
+    "continuous mining machine operator",
+    "convention planner",
+    "conveyor operator",
+    "cook",
+    "cooling equipment operator",
+    "copy marker",
+    "correctional officer",
+    "correctional treatment specialist",
+    "correspondence clerk",
+    "correspondent",
+    "cosmetologist",
+    "cost estimator",
+    "costume attendant",
+    "counseling psychologist",
+    "counselor",
+    "courier",
+    "court reporter",
+    "craft artist",
+    "crane operator",
+    "credit analyst",
+    "credit checker",
+    "credit counselor",
+    "criminal investigator",
+    "criminal justice teacher",
+    "crossing guard",
+    "curator",
+    "custom sewer",
+    "customer service representative",
+    "cutter",
+    "cutting machine operator",
+    "dancer",
+    "data entry keyer",
+    "database administrator",
+    "decorating worker",
+    "delivery services driver",
+    "demonstrator",
+    "dental assistant",
+    "dental hygienist",
+    "dental laboratory technician",
+    "dentist",
+    "derrick operator",
+    "designer",
+    "desktop publisher",
+    "detective",
+    "developer",
+    "diagnostic medical sonographer",
+    "die maker",
+    "diesel engine specialist",
+    "dietetic technician",
+    "dietitian",
+    "dinkey operator",
+    "director",
+    "dishwasher",
+    "dispatcher",
+    "door-to-door sales worker",
+    "drafter",
+    "dragline operator",
+    "drama teacher",
+    "dredge operator",
+    "dressing room attendant",
+    "dressmaker",
+    "drier operator",
+    "drilling machine tool operator",
+    "dry-cleaning worker",
+    "drywall installer",
+    "dyeing machine operator",
+    "earth driller",
+    "economics teacher",
+    "economist",
+    "editor",
+    "education administrator",
+    "electric motor repairer",
+    "electrical electronics drafter",
+    "electrical engineer",
+    "electrical equipment assembler",
+    "electrical installer",
+    "electrical power-line installer",
+    "electrician",
+    "electro-mechanical technician",
+    "elementary school teacher",
+    "elevator installer",
+    "elevator repairer",
+    "embalmer",
+    "emergency management director",
+    "emergency medical technician",
+    "engine assembler",
+    "engineer",
+    "engineering manager",
+    "engineering teacher",
+    "english language teacher",
+    "engraver",
+    "entertainment attendant",
+    "environmental engineer",
+    "environmental science teacher",
+    "environmental scientist",
+    "epidemiologist",
+    "escort",
+    "etcher",
+    "event planner",
+    "excavating operator",
+    "executive administrative assistant",
+    "executive secretary",
+    "exhibit designer",
+    "expediting clerk",
+    "explosives worker",
+    "extraction worker",
+    "fabric mender",
+    "fabric patternmaker",
+    "fabricator",
+    "faller",
+    "family practitioner",
+    "family social worker",
+    "family therapist",
+    "farm advisor",
+    "farm equipment mechanic",
+    "farm labor contractor",
+    "farmer",
+    "farmworker",
+    "fashion designer",
+    "fast food cook",
+    "fence erector",
+    "fiberglass fabricator",
+    "fiberglass laminator",
+    "file clerk",
+    "filling machine operator",
+    "film and video editor",
+    "financial analyst",
+    "financial examiner",
+    "financial manager",
+    "financial services sales agent",
+    "fine artist",
+    "fire alarm system installer",
+    "fire dispatcher",
+    "fire inspector",
+    "fire investigator",
+    "firefighter",
+    "fish and game warden",
+    "fish cutter",
+    "fish trimmer",
+    "fisher",
+    "fitness studies teacher",
+    "fitness trainer",
+    "flight attendant",
+    "floor finisher",
+    "floor layer",
+    "floor sander",
+    "floral designer",
+    "food batchmaker",
+    "food cooking machine operator",
+    "food preparation worker",
+    "food science technician",
+    "food scientist",
+    "food server",
+    "food service manager",
+    "food technologist",
+    "foreign language teacher",
+    "foreign literature teacher",
+    "forensic science technician",
+    "forest fire inspector",
+    "forest fire prevention specialist",
+    "forest worker",
+    "forester",
+    "forestry teacher",
+    "forging machine setter",
+    "foundry coremaker",
+    "freight agent",
+    "freight mover",
+    "front-end developer",
+    "fundraising manager",
+    "funeral attendant",
+    "funeral director",
+    "funeral service manager",
+    "furnace operator",
+    "furnishings worker",
+    "furniture finisher",
+    "gaming booth cashier",
+    "gaming cage worker",
+    "gaming change person",
+    "gaming dealer",
+    "gaming investigator",
+    "gaming manager",
+    "gaming surveillance officer",
+    "garment mender",
+    "garment presser",
+    "gas compressor",
+    "gas plant operator",
+    "gas pumping station operator",
+    "general manager",
+    "general practitioner",
+    "geographer",
+    "geography teacher",
+    "geological engineer",
+    "geological technician",
+    "geoscientist",
+    "glazier",
+    "government program eligibility interviewer",
+    "graduate teaching assistant",
+    "graphic designer",
+    "groundskeeper",
+    "groundskeeping worker",
+    "gynecologist",
+    "hairdresser",
+    "hairstylist",
+    "hand grinding worker",
+    "hand laborer",
+    "hand packager",
+    "hand packer",
+    "hand polishing worker",
+    "hand sewer",
+    "hazardous materials removal worker",
+    "head cook",
+    "health and safety engineer",
+    "health educator",
+    "health information technician",
+    "health services manager",
+    "health specialties teacher",
+    "healthcare social worker",
+    "hearing officer",
+    "heat treating equipment setter",
+    "heating installer",
+    "heating mechanic",
+    "heavy truck driver",
+    "highway maintenance worker",
+    "historian",
+    "history teacher",
+    "hoist and winch operator",
+    "home appliance repairer",
+    "home economics teacher",
+    "home entertainment installer",
+    "home health aide",
+    "home management advisor",
+    "host",
+    "hostess",
+    "hostler",
+    "hotel desk clerk",
+    "housekeeping cleaner",
+    "human resources assistant",
+    "human resources manager",
+    "human service assistant",
+    "hunter",
+    "hydrologist",
+    "illustrator",
+    "industrial designer",
+    "industrial engineer",
+    "industrial engineering technician",
+    "industrial machinery mechanic",
+    "industrial production manager",
+    "industrial truck operator",
+    "industrial-organizational psychologist",
+    "information clerk",
+    "information research scientist",
+    "information security analyst",
+    "information systems manager",
+    "inspector",
+    "instructional coordinator",
+    "instructor",
+    "insulation worker",
+    "insurance claims clerk",
+    "insurance sales agent",
+    "insurance underwriter",
+    "intercity bus driver",
+    "interior designer",
+    "internist",
+    "interpreter",
+    "interviewer",
+    "investigator",
+    "jailer",
+    "janitor",
+    "jeweler",
+    "judge",
+    "judicial law clerk",
+    "kettle operator",
+    "kiln operator",
+    "kindergarten teacher",
+    "laboratory animal caretaker",
+    "landscape architect",
+    "landscaping worker",
+    "lathe setter",
+    "laundry worker",
+    "law enforcement teacher",
+    "law teacher",
+    "lawyer",
+    "layout worker",
+    "leather worker",
+    "legal assistant",
+    "legal secretary",
+    "legislator",
+    "librarian",
+    "library assistant",
+    "library science teacher",
+    "library technician",
+    "licensed practical nurse",
+    "licensed vocational nurse",
+    "life scientist",
+    "lifeguard",
+    "light truck driver",
+    "line installer",
+    "literacy teacher",
+    "literature teacher",
+    "loading machine operator",
+    "loan clerk",
+    "loan interviewer",
+    "loan officer",
+    "lobby attendant",
+    "locker room attendant",
+    "locksmith",
+    "locomotive engineer",
+    "locomotive firer",
+    "lodging manager",
+    "log grader",
+    "logging equipment operator",
+    "logistician",
+    "machine feeder",
+    "machinist",
+    "magistrate judge",
+    "magistrate",
+    "maid",
+    "mail clerk",
+    "mail machine operator",
+    "mail superintendent",
+    "maintenance painter",
+    "maintenance worker",
+    "makeup artist",
+    "management analyst",
+    "manicurist",
+    "manufactured building installer",
+    "mapping technician",
+    "marble setter",
+    "marine engineer",
+    "marine oiler",
+    "market research analyst",
+    "marketing manager",
+    "marketing specialist",
+    "marriage therapist",
+    "massage therapist",
+    "material mover",
+    "materials engineer",
+    "materials scientist",
+    "mathematical science teacher",
+    "mathematical technician",
+    "mathematician",
+    "maxillofacial surgeon",
+    "measurer",
+    "meat cutter",
+    "meat packer",
+    "meat trimmer",
+    "mechanical door repairer",
+    "mechanical drafter",
+    "mechanical engineer",
+    "mechanical engineering technician",
+    "mediator",
+    "medical appliance technician",
+    "medical assistant",
+    "medical equipment preparer",
+    "medical equipment repairer",
+    "medical laboratory technician",
+    "medical laboratory technologist",
+    "medical records technician",
+    "medical scientist",
+    "medical secretary",
+    "medical services manager",
+    "medical transcriptionist",
+    "meeting planner",
+    "mental health counselor",
+    "mental health social worker",
+    "merchandise displayer",
+    "messenger",
+    "metal caster",
+    "metal patternmaker",
+    "metal pickling operator",
+    "metal pourer",
+    "metal worker",
+    "metal-refining furnace operator",
+    "metal-refining furnace tender",
+    "meter reader",
+    "microbiologist",
+    "middle school teacher",
+    "milling machine setter",
+    "millwright",
+    "mine cutting machine operator",
+    "mine shuttle car operator",
+    "mining engineer",
+    "mining safety engineer",
+    "mining safety inspector",
+    "mining service unit operator",
+    "mixing machine setter",
+    "mobile heavy equipment mechanic",
+    "mobile home installer",
+    "model maker",
+    "model",
+    "molder",
+    "mortician",
+    "motel desk clerk",
+    "motion picture projectionist",
+    "motorboat mechanic",
+    "motorboat operator",
+    "motorboat service technician",
+    "motorcycle mechanic",
+    "multimedia artist",
+    "museum technician",
+    "music director",
+    "music teacher",
+    "musical instrument repairer",
+    "musician",
+    "natural sciences manager",
+    "naval architect",
+    "network systems administrator",
+    "new accounts clerk",
+    "news vendor",
+    "nonfarm animal caretaker",
+    "nuclear engineer",
+    "nuclear medicine technologist",
+    "nuclear power reactor operator",
+    "nuclear technician",
+    "nursing aide",
+    "nursing instructor",
+    "nursing teacher",
+    "nutritionist",
+    "obstetrician",
+    "occupational health and safety specialist",
+    "occupational health and safety technician",
+    "occupational therapist",
+    "occupational therapy aide",
+    "occupational therapy assistant",
+    "offbearer",
+    "office clerk",
+    "office machine operator",
+    "operating engineer",
+    "operations manager",
+    "operations research analyst",
+    "ophthalmic laboratory technician",
+    "optician",
+    "optometrist",
+    "oral surgeon",
+    "order clerk",
+    "order filler",
+    "orderly",
+    "ordnance handling expert",
+    "orthodontist",
+    "orthotist",
+    "outdoor power equipment mechanic",
+    "oven operator",
+    "packaging machine operator",
+    "painter ",
+    "painting worker",
+    "paper goods machine setter",
+    "paperhanger",
+    "paralegal",
+    "paramedic",
+    "parking enforcement worker",
+    "parking lot attendant",
+    "parts salesperson",
+    "paving equipment operator",
+    "payroll clerk",
+    "pediatrician",
+    "pedicurist",
+    "personal care aide",
+    "personal chef",
+    "personal financial advisor",
+    "pest control worker",
+    "pesticide applicator",
+    "pesticide handler",
+    "pesticide sprayer",
+    "petroleum engineer",
+    "petroleum gauger",
+    "petroleum pump system operator",
+    "petroleum refinery operator",
+    "petroleum technician",
+    "pharmacist",
+    "pharmacy aide",
+    "pharmacy technician",
+    "philosophy teacher",
+    "photogrammetrist",
+    "photographer",
+    "photographic process worker",
+    "photographic processing machine operator",
+    "physical therapist aide",
+    "physical therapist assistant",
+    "physical therapist",
+    "physician assistant",
+    "physician",
+    "physicist",
+    "physics teacher",
+    "pile-driver operator",
+    "pipefitter",
+    "pipelayer",
+    "planing machine operator",
+    "planning clerk",
+    "plant operator",
+    "plant scientist",
+    "plasterer",
+    "plastic patternmaker",
+    "plastic worker",
+    "plumber",
+    "podiatrist",
+    "police dispatcher",
+    "police officer",
+    "policy processing clerk",
+    "political science teacher",
+    "political scientist",
+    "postal service clerk",
+    "postal service mail carrier",
+    "postal service mail processing machine operator",
+    "postal service mail processor",
+    "postal service mail sorter",
+    "postmaster",
+    "postsecondary teacher",
+    "poultry cutter",
+    "poultry trimmer",
+    "power dispatcher",
+    "power distributor",
+    "power plant operator",
+    "power tool repairer",
+    "precious stone worker",
+    "precision instrument repairer",
+    "prepress technician",
+    "preschool teacher",
+    "priest",
+    "print binding worker",
+    "printing press operator",
+    "private detective",
+    "probation officer",
+    "procurement clerk",
+    "producer",
+    "product promoter",
+    "product manager",
+    "production clerk",
+    "production occupation",
+    "proofreader",
+    "property manager",
+    "prosthetist",
+    "prosthodontist",
+    "psychiatric aide",
+    "psychiatric technician",
+    "psychiatrist",
+    "psychologist",
+    "psychology teacher",
+    "public relations manager",
+    "public relations specialist",
+    "pump operator",
+    "purchasing agent",
+    "purchasing manager",
+    "radiation therapist",
+    "radio announcer",
+    "radio equipment installer",
+    "radio operator",
+    "radiologic technician",
+    "radiologic technologist",
+    "rail car repairer",
+    "rail transportation worker",
+    "rail yard engineer",
+    "rail-track laying equipment operator",
+    "railroad brake operator",
+    "railroad conductor",
+    "railroad police",
+    "rancher",
+    "real estate appraiser",
+    "real estate broker",
+    "real estate manager",
+    "real estate sales agent",
+    "receiving clerk",
+    "receptionist",
+    "record clerk",
+    "recreation teacher",
+    "recreation worker",
+    "recreational therapist",
+    "recreational vehicle service technician",
+    "recyclable material collector",
+    "referee",
+    "refractory materials repairer",
+    "refrigeration installer",
+    "refrigeration mechanic",
+    "refuse collector",
+    "regional planner",
+    "registered nurse",
+    "rehabilitation counselor",
+    "reinforcing iron worker",
+    "reinforcing rebar worker",
+    "religion teacher",
+    "religious activities director",
+    "religious worker",
+    "rental clerk",
+    "repair worker",
+    "reporter",
+    "residential advisor",
+    "resort desk clerk",
+    "respiratory therapist",
+    "respiratory therapy technician",
+    "retail buyer",
+    "retail salesperson",
+    "revenue agent",
+    "rigger",
+    "rock splitter",
+    "rolling machine tender",
+    "roof bolter",
+    "roofer",
+    "rotary drill operator",
+    "roustabout",
+    "safe repairer",
+    "sailor",
+    "sales engineer",
+    "sales manager",
+    "sales representative",
+    "sampler",
+    "sawing machine operator",
+    "scaler",
+    "school bus driver",
+    "school psychologist",
+    "school social worker",
+    "scout leader",
+    "sculptor",
+    "secondary education teacher",
+    "secondary school teacher",
+    "secretary",
+    "securities sales agent",
+    "security guard",
+    "security system installer",
+    "segmental paver",
+    "self-enrichment education teacher",
+    "semiconductor processor",
+    "septic tank servicer",
+    "set designer",
+    "sewer pipe cleaner",
+    "sewing machine operator",
+    "shampooer",
+    "shaper",
+    "sheet metal worker",
+    "sheriff's patrol officer",
+    "ship captain",
+    "ship engineer",
+    "ship loader",
+    "shipmate",
+    "shipping clerk",
+    "shoe machine operator",
+    "shoe worker",
+    "short order cook",
+    "signal operator",
+    "signal repairer",
+    "singer",
+    "ski patrol",
+    "skincare specialist",
+    "slaughterer",
+    "slicing machine tender",
+    "slot supervisor",
+    "social science research assistant",
+    "social sciences teacher",
+    "social scientist",
+    "social service assistant",
+    "social service manager",
+    "social work teacher",
+    "social worker",
+    "sociologist",
+    "sociology teacher",
+    "software developer",
+    "software engineer",
+    "soil scientist",
+    "solderer",
+    "sorter",
+    "sound engineering technician",
+    "space scientist",
+    "special education teacher",
+    "speech-language pathologist",
+    "sports book runner",
+    "sports entertainer",
+    "sports performer",
+    "stationary engineer",
+    "statistical assistant",
+    "statistician",
+    "steamfitter",
+    "stock clerk",
+    "stock mover",
+    "stonemason",
+    "street vendor",
+    "streetcar operator",
+    "structural iron worker",
+    "structural metal fabricator",
+    "structural metal fitter",
+    "structural steel worker",
+    "stucco mason",
+    "substance abuse counselor",
+    "substance abuse social worker",
+    "subway operator",
+    "surfacing equipment operator",
+    "surgeon",
+    "surgical technologist",
+    "survey researcher",
+    "surveying technician",
+    "surveyor",
+    "switch operator",
+    "switchboard operator",
+    "tailor",
+    "tamping equipment operator",
+    "tank car loader",
+    "taper",
+    "tax collector",
+    "tax examiner",
+    "tax preparer",
+    "taxi driver",
+    "teacher assistant",
+    "teacher",
+    "team assembler",
+    "technical writer",
+    "telecommunications equipment installer",
+    "telemarketer",
+    "telephone operator",
+    "television announcer",
+    "teller",
+    "terrazzo finisher",
+    "terrazzo worker",
+    "tester",
+    "textile bleaching operator",
+    "textile cutting machine setter",
+    "textile knitting machine setter",
+    "textile presser",
+    "textile worker",
+    "therapist",
+    "ticket agent",
+    "ticket taker",
+    "tile setter",
+    "timekeeping clerk",
+    "timing device assembler",
+    "tire builder",
+    "tire changer",
+    "tire repairer",
+    "title abstractor",
+    "title examiner",
+    "title searcher",
+    "tobacco roasting machine operator",
+    "tool filer",
+    "tool grinder",
+    "tool maker",
+    "tool sharpener",
+    "tour guide",
+    "tower equipment installer",
+    "tower operator",
+    "track switch repairer",
+    "tractor operator",
+    "tractor-trailer truck driver",
+    "traffic clerk",
+    "traffic technician",
+    "training and development manager",
+    "training and development specialist",
+    "transit police",
+    "translator",
+    "transportation equipment painter",
+    "transportation inspector",
+    "transportation security screener",
+    "transportation worker",
+    "trapper",
+    "travel agent",
+    "travel clerk",
+    "travel guide",
+    "tree pruner",
+    "tree trimmer",
+    "trimmer",
+    "truck loader",
+    "truck mechanic",
+    "tuner",
+    "turning machine tool operator",
+    "typist",
+    "umpire",
+    "undertaker",
+    "upholsterer",
+    "urban planner",
+    "usher",
+    "UX designer",
+    "valve installer",
+    "vending machine servicer",
+    "veterinarian",
+    "veterinary assistant",
+    "veterinary technician",
+    "vocational counselor",
+    "vocational education teacher",
+    "waiter",
+    "waitress",
+    "watch repairer",
+    "water treatment plant operator",
+    "weaving machine setter",
+    "web developer",
+    "weigher",
+    "welder",
+    "wellhead pumper",
+    "wholesale buyer",
+    "wildlife biologist",
+    "window trimmer",
+    "wood patternmaker",
+    "woodworker",
+    "word processor",
+    "writer",
+    "yardmaster",
+    "zoologist"
+  ],
+  "timezones": [
+    {
+      "value": "Dateline Standard Time",
+      "abbr": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": ["Etc/GMT+12"]
+    },
+    {
+      "value": "UTC-11",
+      "abbr": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "value": "Hawaiian Standard Time",
+      "abbr": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "value": "Alaskan Standard Time",
+      "abbr": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "value": "Pacific Standard Time (Mexico)",
+      "abbr": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": ["America/Santa_Isabel"]
+    },
+    {
+      "value": "Pacific Daylight Time",
+      "abbr": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-07:00) Pacific Daylight Time (US & Canada)",
+      "utc": ["America/Los_Angeles", "America/Tijuana", "America/Vancouver"]
+    },
+    {
+      "value": "Pacific Standard Time",
+      "abbr": "PST",
+      "offset": -8,
+      "isdst": false,
+      "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
+      "utc": [
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "PST8PDT"
+      ]
+    },
+    {
+      "value": "US Mountain Standard Time",
+      "abbr": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "America/Whitehorse",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "value": "Mountain Standard Time (Mexico)",
+      "abbr": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": ["America/Chihuahua", "America/Mazatlan"]
+    },
+    {
+      "value": "Mountain Standard Time",
+      "abbr": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "value": "Central America Standard Time",
+      "abbr": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "value": "Central Standard Time",
+      "abbr": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "value": "Central Standard Time (Mexico)",
+      "abbr": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "value": "Canada Central Standard Time",
+      "abbr": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": ["America/Regina", "America/Swift_Current"]
+    },
+    {
+      "value": "SA Pacific Standard Time",
+      "abbr": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "value": "Eastern Standard Time",
+      "abbr": "EST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto"
+      ]
+    },
+    {
+      "value": "Eastern Daylight Time",
+      "abbr": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto"
+      ]
+    },
+    {
+      "value": "US Eastern Standard Time",
+      "abbr": "UEDT",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "value": "Venezuela Standard Time",
+      "abbr": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": ["America/Caracas"]
+    },
+    {
+      "value": "Paraguay Standard Time",
+      "abbr": "PYT",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": ["America/Asuncion"]
+    },
+    {
+      "value": "Atlantic Standard Time",
+      "abbr": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "value": "Central Brazilian Standard Time",
+      "abbr": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": ["America/Campo_Grande", "America/Cuiaba"]
+    },
+    {
+      "value": "SA Western Standard Time",
+      "abbr": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "value": "Pacific SA Standard Time",
+      "abbr": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": ["America/Santiago", "Antarctica/Palmer"]
+    },
+    {
+      "value": "Newfoundland Standard Time",
+      "abbr": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": ["America/St_Johns"]
+    },
+    {
+      "value": "E. South America Standard Time",
+      "abbr": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": ["America/Sao_Paulo"]
+    },
+    {
+      "value": "Argentina Standard Time",
+      "abbr": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "value": "SA Eastern Standard Time",
+      "abbr": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "value": "Greenland Standard Time",
+      "abbr": "GDT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": ["America/Godthab"]
+    },
+    {
+      "value": "Montevideo Standard Time",
+      "abbr": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": ["America/Montevideo"]
+    },
+    {
+      "value": "Bahia Standard Time",
+      "abbr": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": ["America/Bahia"]
+    },
+    {
+      "value": "UTC-02",
+      "abbr": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": ["America/Noronha", "Atlantic/South_Georgia", "Etc/GMT+2"]
+    },
+    {
+      "value": "Mid-Atlantic Standard Time",
+      "abbr": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old",
+      "utc": []
+    },
+    {
+      "value": "Azores Standard Time",
+      "abbr": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": ["America/Scoresbysund", "Atlantic/Azores"]
+    },
+    {
+      "value": "Cape Verde Standard Time",
+      "abbr": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": ["Atlantic/Cape_Verde", "Etc/GMT+1"]
+    },
+    {
+      "value": "Morocco Standard Time",
+      "abbr": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": ["Africa/Casablanca", "Africa/El_Aaiun"]
+    },
+    {
+      "value": "UTC",
+      "abbr": "UTC",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": ["America/Danmarkshavn", "Etc/GMT"]
+    },
+    {
+      "value": "GMT Standard Time",
+      "abbr": "GMT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Edinburgh, London",
+      "utc": [
+        "Europe/Isle_of_Man",
+        "Europe/Guernsey",
+        "Europe/Jersey",
+        "Europe/London"
+      ]
+    },
+    {
+      "value": "British Summer Time",
+      "abbr": "BST",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC+01:00) Edinburgh, London",
+      "utc": [
+        "Europe/Isle_of_Man",
+        "Europe/Guernsey",
+        "Europe/Jersey",
+        "Europe/London"
+      ]
+    },
+    {
+      "value": "GMT Standard Time",
+      "abbr": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Lisbon",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Lisbon"
+      ]
+    },
+    {
+      "value": "Greenwich Standard Time",
+      "abbr": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "value": "W. Europe Standard Time",
+      "abbr": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "value": "Central Europe Standard Time",
+      "abbr": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "value": "Romance Standard Time",
+      "abbr": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "value": "Central European Standard Time",
+      "abbr": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "value": "W. Central Africa Standard Time",
+      "abbr": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "value": "Namibia Standard Time",
+      "abbr": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": ["Africa/Windhoek"]
+    },
+    {
+      "value": "GTB Standard Time",
+      "abbr": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "value": "Middle East Standard Time",
+      "abbr": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": ["Asia/Beirut"]
+    },
+    {
+      "value": "Egypt Standard Time",
+      "abbr": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": ["Africa/Cairo"]
+    },
+    {
+      "value": "Syria Standard Time",
+      "abbr": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": ["Asia/Damascus"]
+    },
+    {
+      "value": "E. Europe Standard Time",
+      "abbr": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau",
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Nicosia",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "value": "South Africa Standard Time",
+      "abbr": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "value": "FLE Standard Time",
+      "abbr": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "value": "Turkey Standard Time",
+      "abbr": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": ["Europe/Istanbul"]
+    },
+    {
+      "value": "Israel Standard Time",
+      "abbr": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": ["Asia/Jerusalem"]
+    },
+    {
+      "value": "Libya Standard Time",
+      "abbr": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": ["Africa/Tripoli"]
+    },
+    {
+      "value": "Jordan Standard Time",
+      "abbr": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": ["Asia/Amman"]
+    },
+    {
+      "value": "Arabic Standard Time",
+      "abbr": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": ["Asia/Baghdad"]
+    },
+    {
+      "value": "Kaliningrad Standard Time",
+      "abbr": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+02:00) Kaliningrad",
+      "utc": ["Europe/Kaliningrad"]
+    },
+    {
+      "value": "Arab Standard Time",
+      "abbr": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "value": "E. Africa Standard Time",
+      "abbr": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "value": "Moscow Standard Time",
+      "abbr": "MSK",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
+      "utc": [
+        "Europe/Kirov",
+        "Europe/Moscow",
+        "Europe/Simferopol",
+        "Europe/Volgograd",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "value": "Samara Time",
+      "abbr": "SAMT",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
+      "utc": ["Europe/Astrakhan", "Europe/Samara", "Europe/Ulyanovsk"]
+    },
+    {
+      "value": "Iran Standard Time",
+      "abbr": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": ["Asia/Tehran"]
+    },
+    {
+      "value": "Arabian Standard Time",
+      "abbr": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": ["Asia/Dubai", "Asia/Muscat", "Etc/GMT-4"]
+    },
+    {
+      "value": "Azerbaijan Standard Time",
+      "abbr": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": ["Asia/Baku"]
+    },
+    {
+      "value": "Mauritius Standard Time",
+      "abbr": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": ["Indian/Mahe", "Indian/Mauritius", "Indian/Reunion"]
+    },
+    {
+      "value": "Georgian Standard Time",
+      "abbr": "GET",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": ["Asia/Tbilisi"]
+    },
+    {
+      "value": "Caucasus Standard Time",
+      "abbr": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": ["Asia/Yerevan"]
+    },
+    {
+      "value": "Afghanistan Standard Time",
+      "abbr": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": ["Asia/Kabul"]
+    },
+    {
+      "value": "West Asia Standard Time",
+      "abbr": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "value": "Yekaterinburg Time",
+      "abbr": "YEKT",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Yekaterinburg",
+      "utc": ["Asia/Yekaterinburg"]
+    },
+    {
+      "value": "Pakistan Standard Time",
+      "abbr": "PKT",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": ["Asia/Karachi"]
+    },
+    {
+      "value": "India Standard Time",
+      "abbr": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": ["Asia/Kolkata", "Asia/Calcutta"]
+    },
+    {
+      "value": "Sri Lanka Standard Time",
+      "abbr": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": ["Asia/Colombo"]
+    },
+    {
+      "value": "Nepal Standard Time",
+      "abbr": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": ["Asia/Kathmandu"]
+    },
+    {
+      "value": "Central Asia Standard Time",
+      "abbr": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Nur-Sultan (Astana)",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "value": "Bangladesh Standard Time",
+      "abbr": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": ["Asia/Dhaka", "Asia/Thimphu"]
+    },
+    {
+      "value": "Myanmar Standard Time",
+      "abbr": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": ["Asia/Rangoon", "Indian/Cocos"]
+    },
+    {
+      "value": "SE Asia Standard Time",
+      "abbr": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "value": "N. Central Asia Standard Time",
+      "abbr": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": ["Asia/Novokuznetsk", "Asia/Novosibirsk", "Asia/Omsk"]
+    },
+    {
+      "value": "China Standard Time",
+      "abbr": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": ["Asia/Hong_Kong", "Asia/Macau", "Asia/Shanghai"]
+    },
+    {
+      "value": "North Asia Standard Time",
+      "abbr": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": ["Asia/Krasnoyarsk"]
+    },
+    {
+      "value": "Singapore Standard Time",
+      "abbr": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "value": "W. Australia Standard Time",
+      "abbr": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": ["Antarctica/Casey", "Australia/Perth"]
+    },
+    {
+      "value": "Taipei Standard Time",
+      "abbr": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": ["Asia/Taipei"]
+    },
+    {
+      "value": "Ulaanbaatar Standard Time",
+      "abbr": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": ["Asia/Choibalsan", "Asia/Ulaanbaatar"]
+    },
+    {
+      "value": "North Asia East Standard Time",
+      "abbr": "NAEST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Irkutsk",
+      "utc": ["Asia/Irkutsk"]
+    },
+    {
+      "value": "Japan Standard Time",
+      "abbr": "JST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "value": "Korea Standard Time",
+      "abbr": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": ["Asia/Pyongyang", "Asia/Seoul"]
+    },
+    {
+      "value": "Cen. Australia Standard Time",
+      "abbr": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": ["Australia/Adelaide", "Australia/Broken_Hill"]
+    },
+    {
+      "value": "AUS Central Standard Time",
+      "abbr": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": ["Australia/Darwin"]
+    },
+    {
+      "value": "E. Australia Standard Time",
+      "abbr": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": ["Australia/Brisbane", "Australia/Lindeman"]
+    },
+    {
+      "value": "AUS Eastern Standard Time",
+      "abbr": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": ["Australia/Melbourne", "Australia/Sydney"]
+    },
+    {
+      "value": "West Pacific Standard Time",
+      "abbr": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "value": "Tasmania Standard Time",
+      "abbr": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": ["Australia/Currie", "Australia/Hobart"]
+    },
+    {
+      "value": "Yakutsk Standard Time",
+      "abbr": "YST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Yakutsk",
+      "utc": ["Asia/Chita", "Asia/Khandyga", "Asia/Yakutsk"]
+    },
+    {
+      "value": "Central Pacific Standard Time",
+      "abbr": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "value": "Vladivostok Standard Time",
+      "abbr": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": ["Asia/Sakhalin", "Asia/Ust-Nera", "Asia/Vladivostok"]
+    },
+    {
+      "value": "New Zealand Standard Time",
+      "abbr": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": ["Antarctica/McMurdo", "Pacific/Auckland"]
+    },
+    {
+      "value": "UTC+12",
+      "abbr": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "value": "Fiji Standard Time",
+      "abbr": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": ["Pacific/Fiji"]
+    },
+    {
+      "value": "Magadan Standard Time",
+      "abbr": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "value": "Kamchatka Standard Time",
+      "abbr": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old",
+      "utc": ["Asia/Kamchatka"]
+    },
+    {
+      "value": "Tonga Standard Time",
+      "abbr": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "value": "Samoa Standard Time",
+      "abbr": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": ["Pacific/Apia"]
+    }
+  ],
+  "backlist": [
+    {
+      "name": "agency"
+    }
+  ],
+  "login_token": [
+    {
+      "id": "",
+      "user_id": "",
+      "token": ""
+    }
+  ],
+  "amount": [
+    {
+      "id": 1,
+      "amount": 5500,
+      "count": 1
+    }
+  ],
+  "data": [
+    {
+      "company": "Công Ty TNHH PNAGENCY",
+      "career": "accountant",
+      "nation": "Vietnam",
+      "timezone": "(UTC+06:00) Asia/Dhaka",
+      "website": "https://www.youtube.com/watch?v=56kPkmt7NzM",
+      "accountPrefix": "abc",
+      "accountSuffix": "abc",
+      "id": 1
+    }
+  ]
+}

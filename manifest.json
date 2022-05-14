@@ -1,0 +1,13 @@
+{
+  "name": "trigger",
+  "version": "1.0",
+  "description": "tạo trigger",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://business.tiktok.com/*"],
+      "css": ["css/style.css"],
+      "js": ["js/script.js"]
+    }
+  ]
+}
